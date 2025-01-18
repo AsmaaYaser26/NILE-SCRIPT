@@ -11,9 +11,10 @@ This web app integrates the Whisper model for automatic speech recognition (ASR)
 
 ## Installation
 1. Clone the repository.
-2. Install the required Python packages using:
+2. Install the required Python packages and run the app using:
    ```bash
    pip install -r requirements.txt
+   python final-project-commented.py
 
 
 ## Usage
@@ -35,7 +36,9 @@ This web app integrates the Whisper model for automatic speech recognition (ASR)
 
 ## Contributers
 [Asmaa Yaser](https://github.com/AsmaaYaser26)
+
 [Wafaa Abdullah](https://github.com/Wafaa-Abdullah)
+
 [Mona ElAhabrawy]()
 
 
