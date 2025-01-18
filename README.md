@@ -15,10 +15,6 @@ This web app integrates the Whisper model for automatic speech recognition (ASR)
    ```bash
    pip install -r requirements.txt
 
-## Run the Gradio app:
-Run the app using:
-   ```bash
-   python final-project-commented.py
 
 ## Usage
 1. **Open the app in your browser.**
@@ -36,5 +32,10 @@ Run the app using:
 - **Llama 3.1** by Ollama: A large language model for chat responses. Learn more about Ollama's models [here](https://ollama.com/).
 - **Gradio**: An easy-to-use Python library for creating interactive web interfaces. Visit the [Gradio Documentation](https://gradio.app/) for more details.
 - **Hugging Face Transformers**: The `pipeline` function is used to load models for automatic speech recognition.
+
+## Contributers
+[Asmaa Yaser](https://github.com/AsmaaYaser26)
+[Wafaa Abdullah](https://github.com/Wafaa-Abdullah)
+[Mona ElAhabrawy]()
 
 
